@@ -143,13 +143,33 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "c64f56018a9ab83d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "d3960aeac5f095a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +182,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43fdb21f44d1cccc",
+  "active": "6b7cb7bc2632a19b",
   "lastOpenFiles": [
+    "README.md",
+    "publish/attachments/vercel-project-id.png",
+    "publish/attachments/vercel-create-token.png",
+    "publish/attachments/vercel-account-id.png",
+    "publish/attachments/publish-dir-yml.png",
+    "publish/attachments/how-linked-blog-starter-works.png",
+    "publish/attachments/github-secrets-vercel.png",
+    "publish/attachments/fork-linked-blog-starter-md.png",
+    "publish/attachments/fn-website-demo.gif",
+    "publish/attachments/enable-actions-github.png",
+    "publish/attachments/disconnect-repo-vercel.png",
+    "publish/works-out-of-the-box-with-markdown-files.md",
+    "publish/statically-generated.md",
+    "publish/update-publish-settings-github-actions.md",
+    "publish/reinventing-the-wheel.md",
+    "publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "publish/linked-blog-starter-does-not-reinvent-wheel.md",
+    "publish/install-linked-blog-starter-locally.md",
+    "publish/how-linked-blog-starter-works.md",
+    "publish/get-project-id-account-id-and-token-vercel.md",
+    "publish/home.md",
+    "publish/connect-obsidian-vault-with-github.md",
+    "publish/deploy-a-custom-linked-blog-starter.md",
+    "publish/attachments",
+    "publish/accepted-markdown-metadata.md",
+    "publish",
     "Untitled",
     "Welcome.md"
   ]
